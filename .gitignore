@@ -1,0 +1,3 @@
+*.img
+*.BIN
+__pycache__/
